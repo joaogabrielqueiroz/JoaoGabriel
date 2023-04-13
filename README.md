@@ -1,7 +1,6 @@
 ## Hi! I'm Joao Gabriel 👋
 
 - 👀 I’m interested in Front-End
-- 🌱 I’m currently studying: Multiplataform Software Development at Fatec Franca  |  Figma at "by my self"  |  AWS-based React.js Cloud Native Scholarship at Compass.Uol
 - 📫 How to reach me: joaogaba12@gmail.com://www.instagram.com/joao_queiiroz_
 - 💞️ I’m looking to collaborate on clean codes and good softwares
 
